@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">EuVouNaTrip</string>
+    <string name="hint_name">Nome</string>
     <string name="hint_email">E-mail</string>
     <string name="hint_password">Senha</string>
+    <string name="hint_confirm_password">Confirme sua senha</string>
     <string name="txt_btn_entrar">Entrar</string>
-    <string formatted="true" name="navega_cadastro">Não tem uma conta? Cadastre-se aqui</string>
+    <string name="navega_cadastro">Não tem uma conta? Cadastre-se aqui</string>
+    <string name="navega_login">Já tem conta? Faça login aqui</string>
+    <string name="txt_titulo_login">Login</string>
+    <string name="txt_titulo_register">Cadastro de Usuário</string>
 </resources>

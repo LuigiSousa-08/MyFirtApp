@@ -5,6 +5,9 @@
       <entry key="LoginScreen">
         <State />
       </entry>
+      <entry key="RegisterScreen">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>

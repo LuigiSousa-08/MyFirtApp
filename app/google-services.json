@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668403444498",
+    "project_id": "euvounatrip2",
+    "storage_bucket": "euvounatrip2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668403444498:android:e05221931176450659a1cb",
+        "android_client_info": {
+          "package_name": "com.example.euvounatrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkB-Zhz-1GS8HVnnPGoQOg1RLEOMgHXD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
